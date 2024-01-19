@@ -1,0 +1,5 @@
+Z-score scaling, also known as standardization, is a preprocessing technique in machine learning that transforms features by subtracting their mean and dividing by their standard deviation. This centers the data around zero with a standard deviation of one, aiding algorithms sensitive to feature scales, enhancing convergence and interpretability.
+
+
+
+Min-max scaling is a preprocessing method in machine learning that transforms features by scaling them to a specific range, often [0, 1]. It involves subtracting the minimum value and dividing by the range (max value - min value), preserving relative relationships between data points while ensuring consistent scale for algorithms sensitive to input ranges.

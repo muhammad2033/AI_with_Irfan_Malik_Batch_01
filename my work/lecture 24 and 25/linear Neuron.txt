@@ -1,0 +1,15 @@
+A "linear neuron" is a basic model of a neuron in artificial neural networks, particularly in the context of machine learning. It's important to note that the term "linear neuron" is not commonly used, and the concept it represents is typically referred to as a "linear activation function" or "linear unit."
+
+In a neural network, a neuron typically consists of an activation function that processes the weighted sum of its inputs and produces an output. A linear neuron specifically uses a linear activation function, which means that the output is directly proportional to the input.
+
+Mathematically, the operation of a linear neuron can be represented as:
+
+
+output = w₁ * input₁ + w₂ * input₂ + ... + b
+
+Where:
+
+w₁, w₂, ... are the weights assigned to the inputs.
+input₁, input₂, ... are the input values.
+b is the bias term.
+In a linear activation function, the output is simply a weighted sum of the inputs plus the bias. This means that the neuron can only learn and represent linear relationships between inputs and outputs. It cannot capture complex nonlinear patterns that might be present in more complex datasets.
