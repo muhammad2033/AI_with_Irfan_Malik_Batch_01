@@ -14,6 +14,6 @@ Machine learning and deep learning models were core components of the curriculum
 # Overall
 Overall, the AI course with Irfan Malik in Batch 1 provided a holistic and hands-on learning experience, preparing students to tackle real-world challenges in the field of artificial intelligence. The diverse range of topics covered, from fundamental programming skills to advanced deep learning applications, reflects the course's commitment to producing well-rounded AI professionals with the skills and knowledge necessary for success in the rapidly evolving landscape of artificial intelligence.
 
-#Furthermore 
+# Furthermore 
 
 During my internship, I extensively worked on projects related to data analysis within a designated folder, prominently labeled "Dataset." This folder contained a diverse array of datasets, ranging from customer behavior to financial trends and market dynamics. Engaging in hands-on exploration, I applied various EDA techniques to derive meaningful insights and contribute to the company's decision-making processes. The practical experience of delving into these datasets not only honed my analytical skills but also provided valuable exposure to real-world challenges, fostering effective communication of findings and collaborative problem-solving.
